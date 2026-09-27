@@ -1,5 +1,5 @@
-/* Entrena tu temario — funcionamiento sin conexión. Versión: 202609272006 */
-const CACHE = 'ett-202609272006';
+/* Entrena tu temario — funcionamiento sin conexión. Versión: 202609272010 */
+const CACHE = 'ett-202609272010';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png',
   './fonts/montserrat-latin.woff2', './fonts/montserrat-latin-ext.woff2', './fonts/opensans-latin.woff2', './fonts/opensans-latin-ext.woff2'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting())); });
