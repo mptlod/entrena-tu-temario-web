@@ -16,7 +16,7 @@ Cuestionarios en modo aprendizaje o examen, con 6 tipos de pregunta y 4 niveles 
 
 ## Privacidad
 
-La aplicación no recoge datos personales, no usa cookies ni analítica y no envía tu progreso a ningún servidor: todo queda en el almacenamiento de tu navegador. Las tipografías se cargan desde Google Fonts. Si borras los datos del navegador, tu progreso se pierde; guarda una copia de seguridad de vez en cuando.
+La aplicación no recoge datos personales, no usa cookies ni analítica y no envía tu progreso a ningún servidor: todo queda en el almacenamiento de tu navegador. Tampoco contacta con servicios externos: las tipografías (Montserrat y Open Sans, licencia SIL OFL, en `fonts/`) se sirven desde este mismo repositorio. Si borras los datos del navegador, tu progreso se pierde; guarda una copia de seguridad de vez en cuando.
 
 ## Contenido
 
