@@ -5,7 +5,7 @@ Lumen oposiciones docentes.
 
 ### ➜ [Abrir la aplicación](https://mptlod.github.io/entrena-tu-temario-web/)
 
-- **Acceso con código de clase.** Te lo da tu preparador. Solo se escribe una vez en cada dispositivo.
+- **Acceso con el código del mes.** Se comparte en el grupo de la academia y se escribe una vez al mes en cada dispositivo. Al cambiar el código no se pierde el progreso.
 - **Sin cuentas ni registro.** Tu progreso se guarda automáticamente en tu propio dispositivo. Si compartís ordenador o tablet, cada persona crea su perfil.
 - **Cambiar de dispositivo:** en *Mi progreso → Descargar copia de seguridad*, y en el otro dispositivo *Restaurar copia*.
 - **Funciona sin conexión** después de la primera visita y se puede añadir a la pantalla de inicio del móvil (Safari: Compartir → Añadir a pantalla de inicio; Chrome: menú → Instalar aplicación).
@@ -20,4 +20,4 @@ La aplicación no recoge datos personales, no usa cookies ni analítica y no env
 
 ## Contenido
 
-El temario y el banco de preguntas son material de Lumen oposiciones docentes. Se publican cifrados y solo pueden leerse con el código de clase. Todos los derechos reservados.
+El temario y el banco de preguntas son material de Lumen oposiciones docentes. Se publican cifrados y solo pueden leerse con el código de acceso vigente. Todos los derechos reservados.
