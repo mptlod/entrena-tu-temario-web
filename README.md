@@ -3,7 +3,7 @@
 Entrenador digital del temario de oposiciones de **Pedagogía Terapéutica (Andalucía)**.
 Lumen oposiciones docentes × Los PTips de Miguel.
 
-### ➜ [Abrir la aplicación](https://mptlod.github.io/entrena-tu-temario/)
+### ➜ [Abrir la aplicación](https://mptlod.github.io/entrena-tu-temario-web/)
 
 - **Acceso con código de clase.** Te lo da tu preparador. Solo se escribe una vez en cada dispositivo.
 - **Sin cuentas ni registro.** Tu progreso se guarda automáticamente en tu propio dispositivo. Si compartís ordenador o tablet, cada persona crea su perfil.
