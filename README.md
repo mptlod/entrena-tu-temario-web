@@ -1,7 +1,7 @@
 # Entrena tu temario
 
 Entrenador digital del temario de oposiciones de **Pedagogía Terapéutica (Andalucía)**.
-Lumen oposiciones docentes × Los PTips de Miguel.
+Lumen oposiciones docentes.
 
 ### ➜ [Abrir la aplicación](https://mptlod.github.io/entrena-tu-temario-web/)
 
@@ -20,4 +20,4 @@ La aplicación no recoge datos personales, no usa cookies ni analítica y no env
 
 ## Contenido
 
-El temario y el banco de preguntas son material de Lumen oposiciones docentes y Los PTips de Miguel. Se publican cifrados y solo pueden leerse con el código de clase. Todos los derechos reservados.
+El temario y el banco de preguntas son material de Lumen oposiciones docentes. Se publican cifrados y solo pueden leerse con el código de clase. Todos los derechos reservados.

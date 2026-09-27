@@ -1,7 +1,7 @@
 {
   "name": "Entrena tu temario",
   "short_name": "Entrena",
-  "description": "Entrenador del temario de oposiciones de Pedagogía Terapéutica (Lumen × Los PTips de Miguel).",
+  "description": "Entrenador del temario de oposiciones de Pedagogía Terapéutica (Lumen oposiciones docentes).",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
